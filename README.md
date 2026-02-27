@@ -7,4 +7,4 @@
 **[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Transferbank/tp-api-ex)**
 
 ### OpenAPI docs available in
-- [Swagger UI](https://api-docs.transferbankpay.com.br)
+- [Swagger UI](https://api-docs.transferpay.exchange)
